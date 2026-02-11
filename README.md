@@ -1,2 +1,2 @@
 # Projects
-Course work and random projects
+Highlighting some key projects

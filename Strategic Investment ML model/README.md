@@ -1,3 +1,3 @@
 # Strategic Investment ML model
 
-This folder contains the Strategic Investment ML model project.
+The Rural Digital Opportunity Fund (RDOF) is a significant United States Government initiative monitored and run by the Federal Communications Commission (FCC). It is aimed at bridging the digital divide in the United States. As part of this initiative the FCC has earmarked $20.4 billion fund to bring high speed fixed broadband service to rural homes and small businesses that currently don’t have access to high-speed internet. The fund was established in 2020. This project proposal outlines a machine learning approach to leverage RDOF data for optimizing rural broadband deployment. By applying advanced analytics to this rich dataset, I aim to provide valuable insights that can enhance the effectiveness of broadband expansion efforts.

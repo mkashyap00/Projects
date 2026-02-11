@@ -1,3 +1,3 @@
 # SLM Performance analysis
 
-This folder contains the SLM Performance analysis project.
+This project is a comprehensive analysis of ELECTRA-small's performance on the Natural Language Inference (NLI) task using the Stanford Natural Language Inference (SNLI) dataset. The project employs a multi-faceted approach combining dataset cartography, bias analysis, and detailed error examination to understand model behavior across different training data scales. By training on both a 10K sample and the full dataset, we demonstrate significant performance improvements with increased data size, achieving 88.04% accuracy on the full dataset compared to 79.8% on the sample.
